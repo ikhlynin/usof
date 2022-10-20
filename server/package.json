@@ -1,0 +1,8 @@
+{
+  "name": "usof_server",
+  "version": "1.0.0",
+  "description": "Usof serverside",
+  "main": "index.js",
+  "author": "Ihor Khlynin <ihorkhlynin@gmail.com>",
+  "license": "MIT"
+}
